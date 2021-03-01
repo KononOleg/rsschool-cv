@@ -1,0 +1,165 @@
+body{
+    background: #585c68;
+    margin: 0;
+
+}
+
+
+.CV
+{
+    width: 800px;
+    height: auto;
+    margin: 0px auto;
+    display: flex;
+
+}
+
+h1, h2{
+    font-weight:700;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+p
+{
+    font-family: "Times New Roman"; 
+    font-weight:500;
+    margin: 10px 0px ;
+    font-size: 18px;    
+}
+
+
+.wrapper
+{
+    padding:  20px 0;
+    max-width: 800px;
+    height: auto; /*auto*/
+    border-bottom: 2px solid #b1eaff;
+   
+}
+
+
+
+/*  Aside      */
+figure
+{
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0px;
+}
+a 
+{
+    color: #ffffff;
+    font-size: 17px;
+}
+.avatar_-img
+{
+    height: 280px;
+}
+.social__icon
+{
+    height: 30px;
+}
+
+ul img
+{
+    margin-right: 20px;
+}
+aside p
+{
+    color: #ffffff;
+}
+
+
+aside
+{
+    font-family: "Times New Roman";
+    font-size: 15px;
+    width: 280px;
+    background: #0bb5f4;
+}
+
+aside  ul 
+{
+    list-style-type:none;
+     padding-inline-start: 0px;
+     margin-bottom: 0px;
+}
+aside li
+{
+    display: flex;
+    padding: 5px 0;
+    align-items: center;
+    color: #ffffff;
+    font-size: 17px;
+}
+
+aside h1,h2
+{
+    color: #ffffff;
+}
+aside h2
+{
+        font-weight:600;
+        font-size: 18px;
+}
+
+aside .wrapper:last-child 
+{
+    border-bottom: 0px;
+}
+
+.container
+{
+    margin: 0px 30px;
+}
+
+
+
+/*  Main      */
+main h2
+{
+    font-weight:700;
+    font-size: 22px;
+    color:#1586d1;
+}
+
+main
+{
+    width: 520px;
+    background: #fff;
+    padding: 25px;
+}
+main a
+{
+    
+    font-weight:600;
+    font-size: 20px;
+    color: black;
+}
+
+/*  Footer     */
+
+
+
+footer div
+{
+  
+    text-align: center;
+}
+   
+
+footer p{
+    color: #ffffff;
+    font-weight:700;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.RSC__img
+{
+    height: 60px;
+}
