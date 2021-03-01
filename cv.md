@@ -13,7 +13,7 @@ My slogan is - "Never give in. Never give in. Never, never, never, never - in no
 * C#
 * Unity
 ## Code examples
-`
+```javascript
 function fizzbuzz(n)
 {
   var res=[];
@@ -30,6 +30,12 @@ function fizzbuzz(n)
     } 
     return res;
 }
-`
+```
 
 ## Completed projects
+## Education
+
+Belarusian National Technical University, The Faculty of Information Technology and Robotics
+
+## English
+A1(Elementary), but i am learning English and my goal is level B1.
