@@ -12,3 +12,14 @@
 * JavaScript
 * React / Redux / React Hooks
 * Git / Github / VS Code
+
+# Education
+
+* **Belarusian National Technical University**
+    * Automation of technological processes and production
+
+
+# Languages
+
+* **Russian** - native speaker.
+* **English** - B1 
