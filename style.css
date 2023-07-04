@@ -161,3 +161,50 @@ li {
   font-weight: 600;
   color: #0bceaf;
 }
+
+/*Projects  */
+
+.projects {
+  padding: 60px 0;
+}
+.projects__items {
+  display: flex;
+  gap: 30px;
+  align-items: start;
+  flex-wrap: wrap;
+}
+
+.projects__item {
+  position: relative;
+  max-width: 320px;
+}
+
+.projects-item__image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.projects-item__link {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  transition: 0.5s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
+  opacity: 0;
+
+  font-size: 24px;
+}
+
+.projects-item__link:hover {
+  opacity: 1;
+  background-color: rgba(11, 206, 175, 0.9);
+}
