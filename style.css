@@ -71,8 +71,11 @@ li {
 }
 
 .home__contact {
+  display: inline;
   text-decoration: none;
   color: #fff;
+  margin-left: 15px;
+  cursor: pointer;
 }
 
 .home__contact:hover {
