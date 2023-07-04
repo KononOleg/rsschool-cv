@@ -1,5 +1,5 @@
 .body {
-  margin: 0;
+  margin: 20px 0;
   background-color: #100e17;
   color: #fff;
   font-family: "Roboto", sans-serif;
@@ -222,4 +222,22 @@ li {
   display: inline-block;
   width: 100%;
   border-radius: 5px;
+}
+
+/*Footer  */
+
+.footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__github {
+  height: 50px;
+  width: 50px;
+}
+
+.footer__rs-school {
+  width: auto;
+  height: 50px;
+  filter: invert(1);
 }
