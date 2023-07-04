@@ -78,3 +78,32 @@ li {
 .home__contact:hover {
   color: #0bceaf;
 }
+
+/* About me */
+
+.about-me__image {
+  max-width: 540px;
+}
+
+.about-me__wrapper {
+  display: flex;
+  gap: 60px;
+}
+
+.about-me__skills {
+  padding-inline-start: 0;
+}
+
+.about-me__skill {
+  margin: 0px 6px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 4px 0px;
+  display: inline-block;
+}
+
+.about-me__skill span {
+  border: 1px solid #0bceaf;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
