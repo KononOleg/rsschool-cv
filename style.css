@@ -208,3 +208,18 @@ li {
   opacity: 1;
   background-color: rgba(11, 206, 175, 0.9);
 }
+
+/*Code examples  */
+
+.code-examples {
+  padding: 40px 0;
+}
+
+.code-examples__code {
+  padding: 20px;
+  background-color: #202026;
+  font-size: 18px;
+  display: inline-block;
+  width: 100%;
+  border-radius: 5px;
+}
