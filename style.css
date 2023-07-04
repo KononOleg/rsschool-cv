@@ -107,3 +107,37 @@ li {
   padding: 4px 10px;
   border-radius: 4px;
 }
+
+/* Education */
+
+.education {
+  padding: 160px 0;
+}
+
+.education__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.education__item {
+  max-width: 510px;
+  margin-bottom: 30px;
+  padding: 26px 30px;
+  border-radius: 4px;
+  background-color: #202026;
+}
+
+.education__date {
+  color: #0bceaf;
+}
+
+.education__item_list li {
+  list-style-type: disc;
+}
+
+.education__item_list {
+  padding-inline-start: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
