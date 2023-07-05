@@ -14,6 +14,33 @@ li {
   margin: 0 auto;
 }
 
+/* Header */
+
+/* Home */
+.header__nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header__nav {
+  display: flex;
+}
+
+.header__items {
+  display: flex;
+  gap: 30px;
+}
+
+.header__item {
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.header__item:hover {
+  color: #0bceaf;
+}
 /* Home */
 
 .home {
