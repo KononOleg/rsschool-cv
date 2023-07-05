@@ -141,7 +141,7 @@ li {
 /* Education */
 
 .education {
-  padding: 160px 0;
+  padding: 80px 0;
 }
 
 .education__wrapper {
@@ -195,7 +195,7 @@ li {
 /*Projects  */
 
 .projects {
-  padding: 60px 0;
+  padding: 40px 0;
 }
 .projects__items {
   display: flex;
@@ -242,7 +242,7 @@ li {
 /*Code examples  */
 
 .code-examples {
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 .code-examples__code {
